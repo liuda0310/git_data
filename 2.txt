@@ -1,0 +1,7 @@
+jidannfd ijfiadsji .daisji, dhu
+10.0.0.2
+10:0:0:3/24
+10.0.0.255 jiadsnijid
+IPaddress=10.10.10.1
+mask=255.255.255.0
+gateway=10.10.10.254
